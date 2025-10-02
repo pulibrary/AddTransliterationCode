@@ -17,7 +17,7 @@ An OCLC Connexion Macro for inserting transliteration codes in subfield $7 of a 
 
 ## Usage
 
-Place the cursor in the field to which you want to add the code, thenlaunch the macro either with a keyboard shortcut, or from the User Tools menu.  The following dialog will appear:
+Place the cursor in the field to which you want to add the code, then launch the macro either with a keyboard shortcut, or from the User Tools menu.  The following dialog will appear:
 
 <img src="./img/screenshot.png"/>
 
