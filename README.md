@@ -3,7 +3,7 @@ An OCLC Connexion Macro for inserting transliteration codes in subfield $7 of a 
 
 [InstallAddTransliterationCode.exe](https://github.com/pulibrary/AddTransliterationCode/releases/latest/download/InstallAddTransliterationCode.exe)
 
-##Confugration
+## Confugration
 
 **To add a macro to the toolbar**
 - Select "Tools > User Tools > Assign...". At the top of the screen, click "Macros". In the list box on the left side of the window, select the desired macro.
